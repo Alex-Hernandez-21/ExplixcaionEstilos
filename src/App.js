@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div>Hola mundo tailwind</div>
+      <div className="bg-red-500 text-blue-300">Hola mundo tailwind</div>
     </div>
   );
 }
